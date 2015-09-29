@@ -1,0 +1,138 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+li{
+	list-style: none;
+	text-align: center;	
+	
+}
+#body{
+	width: auto;
+	height: auto;
+	
+
+}
+#wrapper{
+	width: 1000px;
+	position: relative;
+	margin: 0 auto;
+
+}
+#top{
+	width: 100%;
+	height: 90px;
+	margin: auto;
+	background-color: blue;
+}
+#menu{
+	height:60px;
+	width:100%;
+	margin:auto;
+	margin-bottom:20px;
+}
+#menu ul li.menu1{
+	width: 20%;    					 
+	height: 60px;    					
+	float: left;						
+	margin-top: 8px;									
+	background-color: gray; 			
+	margin-left: 100px;	
+				
+} 
+#menu ul li.menu2{
+	width: 35%;
+	height: 60px;
+	float: left;
+	margin-left: 1%;
+	margin-top: 8px; 
+	background-color: green;
+}
+#menu ul li.menu3{
+	width: 20%;
+	height: 60px;
+	float: left;
+	margin-left: 1%;
+	margin-top: 8px;				
+	background-color: black;
+}
+#banner{
+	margin:auto;
+	width: 100%;
+	height: 200px;
+	margin-top: 20px;
+	margin-bottom:20px;
+	background-color: #00FF66;
+}
+.mainpage{
+	margin:auto;
+	width:100%;
+	height:600px;
+}
+.left{
+	width:39%;
+	height:100%;
+	float:left;
+	margin-right:2%;
+}
+#topp{
+	height:48%;
+	width:100%;
+	background: red;
+	margin-bottom:5%;
+}
+#bottom{
+	height:48%;
+	width:100%;
+	background: blue;
+	
+}
+.right{
+	float:left;
+	width:59%;
+	height:100%;
+	background: #0037FF;
+}
+
+#logo{
+	margin:auto;
+	height:100px;
+	width:100%;
+	background: pink;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+#tuychon{
+	width:100%;
+	height:600px;
+	margin:auto;
+	margin-bottom:30px;
+}
+#chonleft{
+	height:100%;
+	width:31.333333%;
+	float:left;
+	background: #3C2E37;
+	margin-right:3%;
+}
+#choncenter{
+	height:100%;
+	width:31.3333333%;
+	float:left;
+	background: #082D25;
+	margin-right:3%;
+}
+#chonright{
+	height:100%;
+	width:31.333333%;
+	float:left;
+	background: #2C2D08;
+}
+#footer{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #00DCFF;
+	margin-bottom: 50px;
+}
